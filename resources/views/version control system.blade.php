@@ -13,6 +13,8 @@ macam-macam version control
 2. Mercurial
 3. Subversion (SVN)
 4. Bazzar
-5. RCS
+5. 
 </body>
 </html>
+
+kakas6
